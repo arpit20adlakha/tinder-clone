@@ -1,18 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d27a6b21-fc7d-409e-81e6-37bf51fba72b" name="Default Changelist" comment="" />
+    <list default="true" id="d27a6b21-fc7d-409e-81e6-37bf51fba72b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tinder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatScreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chats.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwipeButtons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwipeButtons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinderCards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinderCards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1hKVqlKgyfMHmvHwSodVRjhV6g7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -24,7 +96,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599759963457</updated>
+      <workItem from="1599759965548" duration="32019000" />
+      <workItem from="1600024858962" duration="6482000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="190" key="#ESLint" timestamp="1599767385740">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="865" y="190" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1599767385740" />
+    <state x="968" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599918458653">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="968" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1599918458653" />
+    <state x="919" y="312" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1599767649440">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="919" y="312" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1680.1050@0.0.1680.1050" timestamp="1599767649440" />
+    <state x="1058" y="424" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599824155006">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1058" y="424" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1680.1050@0.0.1680.1050" timestamp="1599824155006" />
+    <state x="1052" y="287" key="FileChooserDialogImpl" timestamp="1599766764577">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1052" y="287" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1599766764577" />
+    <state x="576" y="101" key="SettingsEditor" timestamp="1599767705933">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="576" y="101" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1599767705933" />
+    <state x="924" y="281" width="681" height="488" key="find.popup" timestamp="1599766811264">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="924" y="281" width="681" height="488" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599766811264" />
+    <state x="930" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1599914864401">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="930" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599914864401" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/TinderCards.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
