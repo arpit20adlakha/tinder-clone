@@ -1,3 +1,4 @@
+/** @jsx React.DOM */
 import firebase from "firebase";
 
 const firebaseConfig = {

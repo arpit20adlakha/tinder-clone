@@ -1,3 +1,4 @@
+/** @jsx React.DOM */
 import React from 'react';
 import ReplayIcon from "@material-ui/icons/Replay";
 import CloseIcon from "@material-ui/icons/Close";

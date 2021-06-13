@@ -1,3 +1,4 @@
+/** @jsx React.DOM */
 import React from "react";
 import "./Chats.css";
 import Chat from "./Chat"

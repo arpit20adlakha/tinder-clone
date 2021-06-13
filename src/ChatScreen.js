@@ -1,3 +1,4 @@
+/** @jsx React.DOM */
 import React, {useState} from "react";
 import Avatar from "@material-ui/core/Avatar";
 import "./ChatScreen.css";
