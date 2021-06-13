@@ -1,4 +1,3 @@
-/** @jsx React.DOM */
 import React from 'react';
 import "./Header.css";
 import PersonIcon from "@material-ui/icons/Person";

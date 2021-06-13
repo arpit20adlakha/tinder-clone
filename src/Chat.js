@@ -1,4 +1,3 @@
-/** @jsx React.DOM */
 import React from 'react';
 import './Chat.css';
 import Avatar from "@material-ui/core/Avatar";
