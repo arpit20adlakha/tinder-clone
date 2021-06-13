@@ -3,6 +3,48 @@ import TinderCard  from "react-tinder-card";
 import database from "./firebase";
 import "./TinderCards.css"
 
+const peopleLocal = [
+    {
+        name: "Rachel",
+        url: "/tinder-clone/rachel.jpeg"
+
+    },
+    {
+        name: "Arpit",
+        url: "https://avatars1.githubusercontent.com/u/16517873?v=4"
+    },
+    {
+        name: "Poonam",
+        url: "tinder-clone/poonam_soni.jpeg"
+    },
+    {
+        name: "Emily",
+        url: "tinder-clone/emily.jpeg"
+    },
+    {
+        name: "Monica",
+        url: "tinder-clone/monica.jpeg"
+    },
+    {
+        name: "Phoebe",
+        url: "tinder-clone/pheoebe.jpeg"
+    },
+    {
+        name: "Rachel",
+        url: "tinder-clone/rachel.jpeg"
+    },
+    {
+        name: "Joey",
+        url: "tinder-clone/Joey.jpeg"
+    },
+    {
+        name: "Chandler",
+        url: "tinder-clone/chandler.jpeg"
+    }
+
+
+]
+
 function TinderCards() {
     const [people, setPeople]  = useState([]);
 
@@ -19,7 +61,7 @@ function TinderCards() {
     return (
         <div>
         <div className="tinderCards__cardContainer">
-            {people.map((person) => (
+            {peopleLocal.map((person) => (
                 <TinderCard className="swipe"
                             key={person.name} preventSwipe={['up', 'down']}>
                     <div className="card"
