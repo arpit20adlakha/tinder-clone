@@ -23,7 +23,7 @@ function Header({backButton}) {
 
             <Link to="/">
             <img className="header__logo"
-                 src="tinder-clone/logo101.png"
+                 src="logo101.png"
                  alt="tinder logo"/>
              </Link>
              <Link to="/chats">

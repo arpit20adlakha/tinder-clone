@@ -15,31 +15,31 @@ const peopleLocal = [
     },
     {
         name: "Poonam",
-        url: "tinder-clone/poonam_soni.jpeg"
+        url: "poonam_soni.jpeg"
     },
     {
         name: "Emily",
-        url: "tinder-clone/emily.jpeg"
+        url: "emily.jpeg"
     },
     {
         name: "Monica",
-        url: "tinder-clone/monica.jpeg"
+        url: "monica.jpeg"
     },
     {
         name: "Phoebe",
-        url: "tinder-clone/pheoebe.jpeg"
+        url: "pheoebe.jpeg"
     },
     {
         name: "Rachel",
-        url: "tinder-clone/rachel.jpeg"
+        url: "rachel.jpeg"
     },
     {
         name: "Joey",
-        url: "tinder-clone/Joey.jpeg"
+        url: "Joey.jpeg"
     },
     {
         name: "Chandler",
-        url: "tinder-clone/chandler.jpeg"
+        url: "chandler.jpeg"
     }
 
 
