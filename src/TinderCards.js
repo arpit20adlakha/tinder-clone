@@ -48,15 +48,15 @@ const peopleLocal = [
 function TinderCards() {
     const [people, setPeople]  = useState([]);
 
-    useEffect(() => {
-        const unsubscribe = database.collection('people').onSnapshot(snapshot => {
-                setPeople(snapshot.docs.map(doc => doc.data()));
-            }
-        )
-        return () => {
-            unsubscribe();
-        }
-    }, [])
+//     useEffect(() => {
+//         const unsubscribe = database.collection('people').onSnapshot(snapshot => {
+//                 setPeople(snapshot.docs.map(doc => doc.data()));
+//             }
+//         )
+//         return () => {
+//             unsubscribe();
+//         }
+//     }, [])
 
     return (
         <div>
