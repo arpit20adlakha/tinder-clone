@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.28615048.chunk.css",
-    "main.js": "/static/js/main.b176a9f3.chunk.js",
-    "main.js.map": "/static/js/main.b176a9f3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.772c1402.js",
-    "runtime-main.js.map": "/static/js/runtime-main.772c1402.js.map",
-    "static/js/2.b294606a.chunk.js": "/static/js/2.b294606a.chunk.js",
-    "static/js/2.b294606a.chunk.js.map": "/static/js/2.b294606a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70bbe2bf79e0036a1dd677f01573a8e3.js": "/precache-manifest.70bbe2bf79e0036a1dd677f01573a8e3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.28615048.chunk.css.map": "/static/css/main.28615048.chunk.css.map",
-    "static/js/2.b294606a.chunk.js.LICENSE.txt": "/static/js/2.b294606a.chunk.js.LICENSE.txt"
+    "main.css": "/tinder/static/css/main.28615048.chunk.css",
+    "main.js": "/tinder/static/js/main.a2b4a997.chunk.js",
+    "main.js.map": "/tinder/static/js/main.a2b4a997.chunk.js.map",
+    "runtime-main.js": "/tinder/static/js/runtime-main.08fe374e.js",
+    "runtime-main.js.map": "/tinder/static/js/runtime-main.08fe374e.js.map",
+    "static/js/2.447e23f3.chunk.js": "/tinder/static/js/2.447e23f3.chunk.js",
+    "static/js/2.447e23f3.chunk.js.map": "/tinder/static/js/2.447e23f3.chunk.js.map",
+    "index.html": "/tinder/index.html",
+    "precache-manifest.a137e176182a69d0c2559addcafd6638.js": "/tinder/precache-manifest.a137e176182a69d0c2559addcafd6638.js",
+    "service-worker.js": "/tinder/service-worker.js",
+    "static/css/main.28615048.chunk.css.map": "/tinder/static/css/main.28615048.chunk.css.map",
+    "static/js/2.447e23f3.chunk.js.LICENSE.txt": "/tinder/static/js/2.447e23f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.772c1402.js",
-    "static/js/2.b294606a.chunk.js",
+    "static/js/runtime-main.08fe374e.js",
+    "static/js/2.447e23f3.chunk.js",
     "static/css/main.28615048.chunk.css",
-    "static/js/main.b176a9f3.chunk.js"
+    "static/js/main.a2b4a997.chunk.js"
   ]
 }
