@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import TinderCard  from "react-tinder-card";
-import database from "./firebase";
+// import database from "./firebase";
 import "./TinderCards.css"
 
 const peopleLocal = [
@@ -46,17 +46,17 @@ const peopleLocal = [
 ]
 
 function TinderCards() {
-    const [people, setPeople]  = useState([]);
+//     const [people, setPeople]  = useState([]);
 
-    useEffect(() => {
-        const unsubscribe = database.collection('people').onSnapshot(snapshot => {
-                setPeople(snapshot.docs.map(doc => doc.data()));
-            }
-        )
-        return () => {
-            unsubscribe();
-        }
-    }, [])
+//     useEffect(() => {
+//         const unsubscribe = database.collection('people').onSnapshot(snapshot => {
+//                 setPeople(snapshot.docs.map(doc => doc.data()));
+//             }
+//         )
+//         return () => {
+//             unsubscribe();
+//         }
+//     }, [])
 
     return (
         <div>
